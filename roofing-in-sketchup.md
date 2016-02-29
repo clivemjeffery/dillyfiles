@@ -15,4 +15,9 @@ A hipped roof has an sloped face rising from each edge of the base rectangle. Th
 3. Pull up to make the roof the right height. Lock to the blue axis by holding down the up-arrow key.
 
 ## Hipped with a Ridge
-Hipped roofs that come to a point at the apex (or top) are not common. It is much more usual to see buildings with a horizontal ridge along the centreline of the roof.
+Hipped roofs that come to a point at the apex (or top) are not common. It is much more usual to see buildings with a horizontal ridge along the centreline of the roof. To make a hipped roof with a ridge, you need to make a >-< shape on top of the building box. There are quite a few ways to do this but here's one:
+
+1. Use the pencil tool to draw lines from each vertex of the top rectangle to the centre-point of each long edge. This will make two intersecting triangles on the roof.
+2. Use the eraser tool to erase the lines in the middle part of the roof, leaving just the smaller triangles at each short end.
+3. Select the pencil tool again and draw a line to connect the middle vertices of each triangle. This will be the ridge.
+4. Use the move tool to pull up the ridge, keeping motion to the blue axis with the up-arrow key.
