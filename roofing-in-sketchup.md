@@ -15,4 +15,4 @@ A hipped roof has an sloped face rising from each edge of the base rectangle. Th
 3. Pull up to make the roof the right height. Lock to the blue axis by holding down the up-arrow key.
 
 ## Hipped with a Ridge
-Hipped roofs that come to a point at the apex (or top) are not common. It is much more usual to see buildings with h
+Hipped roofs that come to a point at the apex (or top) are not common. It is much more usual to see buildings with a horizontal ridge along the centreline of the roof.
